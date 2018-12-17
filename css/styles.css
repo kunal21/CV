@@ -38,7 +38,10 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
 }
-
+a{
+  text-decoration: none;
+  color: #11999E;
+}
 .h2 {
   padding-bottom: 25px;
 }
