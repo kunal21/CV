@@ -12,7 +12,8 @@ hr {
   margin-left: 650px;
   margin-right: 650px;
   padding-bottom: 50px;
-} 
+  margin-top: 50px;
+}
 
 .skills {
   padding-bottom: 30px;
@@ -20,13 +21,10 @@ hr {
 }
 
 .profile {
-  padding-bottom: 50px;
+  /* padding-bottom: 50px; */
   margin-top: 50px;
 }
 
-.row{
-  padding-bottom: 50px;
-}
 .mainskills{
   padding-bottom: 30px;
 }
@@ -35,7 +33,10 @@ hr {
   padding-bottom: 50px;
   margin-top: 50px;
 }
-
+.responsive {
+  width: 100%;
+  height: auto;
+}
 p {
   line-height: 2;
 }
@@ -57,10 +58,11 @@ a{
   color: #11999E;
 }
 .h2 {
-  padding-bottom: 25px;
+  /* padding-bottom: 25px; */
   color: #66BFBF;
   font-family: 'Merriweather', serif;
   margin-bottom: 50px;
+  font-size: 40px;
 }
 
 .top-container {
@@ -91,15 +93,11 @@ padding-bottom: 200px;
 }
 
 .bottom-cloud {
-  position: absolute;
-  left: 150px;
-  bottom: 200px;
+margin-left: 50px;
 }
 
 .top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
+margin-right: 50px;
 }
 
 .description {
@@ -189,6 +187,10 @@ padding-bottom: 200px;
   margin-left: 15;
   margin-right: 15px;
 } */
+
+.row{
+  margin: 100px;
+}
 .heading-footer
 {
 background-image: url(bg.jpg);
