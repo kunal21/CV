@@ -180,17 +180,21 @@ margin-right: 50px;
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-/*
-.projects{
-  margin-bottom: : 30px;
-  margin-top: 50px;
-  margin-left: 15;
-  margin-right: 15px;
-} */
 
+.projects{
+  padding-bottom: : 30px;
+  /* margin-top: 50px;
+  margin-left: 15;
+  margin-right: 15px; */
+}
+.card-deck{
+  width: 80%;
+  margin: auto;
+}
 .row{
   margin: 100px;
 }
+
 .heading-footer
 {
 background-image: url(bg.jpg);
